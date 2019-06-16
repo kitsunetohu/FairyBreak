@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/oculusCamera.unity
+    guid: 0f61340135e3f44c2815a324b21c182a
+  - enabled: 1
+    path: Assets/Scenes/Scene.unity
+    guid: 5c7f03513bd767044b58072f5f0890b1
+  - enabled: 1
+    path: Assets/EndingScene/Scene/EndingScene.unity
+    guid: 31ed249c7a25a2c43add34e71582dec0
+  m_configObjects: {}
